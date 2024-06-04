@@ -1,0 +1,1 @@
+This is a working config (at the time of upload) for Voron 2.4 R2 Pro Plus formbot kit using BTT Manta m8p and SB2209 (RP2040) can board. This is more for my own usage, however if anyone finds it and finds it useful - I'm all good with that.
